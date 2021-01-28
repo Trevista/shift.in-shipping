@@ -1,0 +1,13 @@
+spring:
+  banner:
+    location: classpath:resources/banner.txt
+services:
+  delhivery:
+    url: https://track.delhivery.com
+    token: Token 25ac99ab7d729d838f2ff8aa9902474f46cc23aa
+  dotzot:
+    url: https://instacom-staging.azurewebsites.net
+  rapid:
+    client: rapidd
+    token: dd441d080fd2e571d002ae3dc58ab371
+    url: http://trace.rapiddelivery.co
